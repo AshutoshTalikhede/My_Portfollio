@@ -9,3 +9,4 @@ EXPOSE 80
 
 # Start the Apache server
 CMD ["httpd-foreground"]
+
